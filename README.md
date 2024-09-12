@@ -10,6 +10,6 @@ Calendar to manage your schedule
  ## 화면 구성
 | 이미지 1 | 이미지 2 | 이미지 3 |
 |----------|----------|----------|
-| <img src="https://example.com/image1.png" width="100"/> | 
-<img src="https://example.com/image2.png" width="100"/> | 
-<img src="https://example.com/image3.png" width="100"/> |
+| <img src="https://example.com/image1.png" width="100"/> | <img src="https://example.com/image2.png" width="100"/> | <img src="https://example.com/image3.png" width="100"/> |
+| 설명 1   | 설명 2   | 설명 3   |
+
