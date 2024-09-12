@@ -1,7 +1,7 @@
 # Scehduler
 Calendar to manage your schedule
 
-### Collaborator 
+## Collaborator 
 @sseung6
 
 ## Languages and Tools:
