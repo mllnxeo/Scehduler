@@ -5,4 +5,6 @@ Calendar to manage your schedule
 @sseung6
 
 ### Languages and Tools:
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+#7F52FF
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+
