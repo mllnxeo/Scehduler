@@ -1,5 +1,5 @@
 # Scehduler
-Calendar to manage your schedule
+🗓️ Calendar to manage your schedule
 
 ## • Collaborator 
 @sseung6
